@@ -28,10 +28,9 @@ section {
 }
 
 section h2 {
-  color: #2563eb;
+  color: #B76E79;
 }
 
-/* Efek Hover - Untuk Langkah 5 */
 section:hover {
   transform: translateY(-5px);
   transition: 0.3s;
