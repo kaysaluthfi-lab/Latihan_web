@@ -2,12 +2,12 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #2563eb;
+  background-color: #FFF6E9;
   color: #333;
 }
 
 header {
-  background-color: #16a34a;
+  background-color: #FF9EBB;
   color: white;
   text-align: center;
   padding: 40px 20px;
@@ -35,7 +35,7 @@ section h2 {
 section:hover {
   transform: translateY(-5px);
   transition: 0.3s;
-  background-color: #e0f2ff;
+  background-color: #FF5C8A;
 }
 
 footer {
